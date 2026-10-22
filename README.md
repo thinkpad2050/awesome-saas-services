@@ -193,7 +193,7 @@ receive and track email effortlessly.
 
 [ManageFlitter](https://manageflitter.com/) - ManageFlitter provides you with a set of easy to use tools to empower you to work smarter and faster with Twitter.
 
-[OpenSparta](https://opensparta.com/en) - OpenSparta helps users discover relevant Telegram audiences, manage Telegram accounts, and streamline engagement from one workspace.
+[OpenSparta](https://opensparta.com/en) - Telegram operations SaaS workspace for conversation discovery, connected-account management, and proxy operations.
 
 ## DNS
 
